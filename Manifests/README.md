@@ -1,6 +1,6 @@
 # Azure Percept Deployment Manifests
 
-This folder contains two JSON configuration files.
+This folder contains three JSON Deplyment configuration files.
 
 * The one labeled `azure-percept-default-deployment.json` can be used
   to restore your Azure Percept DK's IoT Edge environment to its default state for any OS version you have on your
