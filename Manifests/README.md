@@ -1,4 +1,4 @@
-# Default Configuration
+# Azure Percept Deployment Manifests
 
 This folder contains two JSON configuration files.
 
